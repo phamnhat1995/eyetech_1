@@ -1,0 +1,7 @@
+{
+	"email": "toco1@email.com",
+	"password": "123",
+	"camera_id": "1",
+	"dataStream": "rtsp://184.72.239.149/vod/mp4:BigBuckBunny_175k.mov?abc&cde",
+	"endpoint": "http://103.63.108.26:8080"
+}
